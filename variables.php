@@ -29,4 +29,5 @@ define('GREETING', 'hELLO from a CONSTANT greeting');
 
 //echo greetingString_singleComma;
 echo GREETING;
+
 ?></h1>
